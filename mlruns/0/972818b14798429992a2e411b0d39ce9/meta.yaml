@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/xetto/OneDrive/Escritorio/4.2/Nueva%20carpeta/Proyecto_CicloDeVida_UEM_TRAIN/mlruns/0/972818b14798429992a2e411b0d39ce9/artifacts
+end_time: 1689492340181
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 972818b14798429992a2e411b0d39ce9
+run_name: RandomForest_1689492329.5044
+run_uuid: 972818b14798429992a2e411b0d39ce9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689492330102
+status: 3
+tags: []
+user_id: DeMEnTe_69
